@@ -64,6 +64,12 @@ body{
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
+.aba-conteudo.ativo{
+    display: block;
+}
+.aba-conteudo{
+    display: none;
+}
 @media screen and (min-width: 768px){
     .botoes{
         display: flex;
