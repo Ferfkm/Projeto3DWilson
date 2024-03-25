@@ -70,6 +70,16 @@ body{
 .aba-conteudo{
     display: none;
 }
+.aba-conteudo-titulo-principal{
+    font-size: 28px;
+    text-align: center;
+}
+.aba-conteudo-titulo-secundario{
+    text-align: center;
+    color: var(--rosa);
+    text-transform: uppercase;
+}
+
 @media screen and (min-width: 768px){
     .botoes{
         display: flex;
