@@ -3,6 +3,7 @@
 :root{
     --branco: #FFFFFF;
     --cor-de-fundo: #6FC9C0;
+    --texto-fundo:#0e6058;
     --cor-rosa:#C568CC;
     --verde: #084A56;
     --verde-claro: #6FC9C0;
@@ -60,7 +61,7 @@ body{
     border-bottom: 4px solid var(--verde);
 }
 .abas-textos{
-    background-color: var(--cor-de-fundo);
+    background-color: var(--texto-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
